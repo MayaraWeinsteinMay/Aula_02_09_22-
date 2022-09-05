@@ -1,0 +1,69 @@
+02 setembro de 2022
+
+   GITBASH 
+comandos : 
+
+Ls ( listagem dos itens dentro da pasta que eu estou )
+
+La(não iremos usar no momento, mas devo pesquisar o que é ) 
+
+pwd (indica onde estou)
+
+cd .. (volta uma pasta de onde estou)
+ 
+cd ( com o nome de uma pasta para eu acessar a pasta.
+      ex:"c/user/Desktop")
+
+ 
+cd (sozinho volta para o começo)
+
+
+mkdir ( cria uma nova pasta) 
+
+
+qnd for colocar espaço no nome da pasta deve colocar _ (anderlaine) 
+se o nome for mais de um.
+
+rmdir ( para excluir uma pasta ex: rmd nomedapasta)
+
+clear (limpa) 
+
+
+      Direcionamento de código ? 
+
+
+
+
+             gitbash PARA SUBIR github 
+
+
+
+git init ( inicializar o repositório local para online 
+
+git add . ( o ponto . adiciona  todo o arquivo que vc quer
+ subir, caso não queira tudo tira o ponto e coloca o nome 
+do arquivo específico. 
+
+ 
+
+
+  
+
+para eu apagar a pasta eu preciso localiza-la e depois excluir 
+
+
+mv( renomea a pasta/ arquivo / coloca o mv nomeAntigo 
+depois o nome Novo, lembrando que tem que sair e depois 
+renomear, ou seja o nome da pasta vai aparecer na linha de
+ clcasacd ccima, e qnd vc estiver escrevendo estará na linha desktop)
+
+
+
+
+
+
+
+
+
+
+ 

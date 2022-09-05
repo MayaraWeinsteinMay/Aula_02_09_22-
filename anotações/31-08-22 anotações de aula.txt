@@ -1,0 +1,39 @@
+bloco de repetição 
+ FAÇA 
+FAÇA ENQUANTO 
+PARE 
+(SERVE PARA OTIMIZAÇÃO DE TEMPO)
+
+        ENQUANTO: 
+  otimiza o tempo, não precisando escrever de 1-10 ele já 
+ faz isso (contagem regressiva ou um despertador, que,
+ enquando passa as horas está programado para despertar
+ no horário marcado.
+() prestar a tenção na condição que está dentro dos 
+parentese, para não confundir com os outros
+ que são parecidos.
+
+
+(inclua biblioteca util)- o que seria"INCLUA BIBLIOTECA"
+A BIBLIOTECA FICA A DIREITA DA TELA NO PORTUGOL 
+ 
+
+/* para comentar um bloco(ficar "invisível" no portugol)
+coloca no início e no fim da função.*/
+
+    ENQUANTO 
+ o *faça* lê, valida e executa a ação e o *enquanto* testa.
+ No enquanto precisa de {} 
+
+       PARA
+ 3 elementos para que a variável funcione 
+ ponto e virgula(;) serve para validação no pare.
+ criar a variavél ,verificar a condição e
+ criar o incremento.
+
+ESCOPO 
+tudo que cria dentro de uma variável 
+
+
+  (++) incrementa um número/elemento 
+  (--) é decremento
