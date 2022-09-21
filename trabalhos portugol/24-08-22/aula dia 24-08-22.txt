@@ -1,0 +1,24 @@
+          Rio dia 24 de Agosto de 2022
+
+  Hoje aprendemos sobre o que é get post put e delet
+
+get - seria receber algo
+post - enviar algo
+put -alteração de envio
+delete - deletar algo
+
+
+
+            PORTUGOL
+
+-PROGRAMA: não tem como utilizar outra palavra no início da programação 
+a não ser a palavra `programa´
+
+ALGORÍTIMO 
+inteiro n1, n2, resposta 
+escreva("digite seu primeiro numero")
+leia (n1)
+escreva("digite seu segundo numero")
+leia (n2)
+resposta= n1+n2 
+escreva("o resultado da soma é", resposta)
